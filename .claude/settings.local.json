@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat:*)",
+      "Bash(node update-status-migration.js:*)",
+      "Bash(npm run build:*)",
+      "Bash(lsof:*)",
+      "Bash(netstat:*)"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+Site Name,Date,Status,Inverter 1,Inverter 2,Inverter 3,Inverter 4,Inverter 5
+Solar Plant A,2024-01-15,Active,95.5,92.3,89.7,94.1,96.2
+Solar Plant B,2024-01-16,Active,88.4,91.2,93.5,87.6,90.8
+Solar Plant C,2024-01-17,Maintenance,85.1,0,92.4,94.3,91.7
+Solar Plant D,2024-01-18,Active,93.8,95.2,91.4,89.6,92.9
+Solar Plant E,2024-01-19,Active,90.2,88.7,94.6,92.1,95.3
+Solar Plant F,2024-01-20,Active,87.9,93.4,90.8,91.5,88.2
+Solar Plant G,2024-01-21,Inactive,0,0,0,0,0
+Solar Plant H,2024-01-22,Active,94.7,92.8,95.1,93.2,89.4

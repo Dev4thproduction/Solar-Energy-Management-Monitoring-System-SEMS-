@@ -1,0 +1,16 @@
+{
+  "name": "zip-to-json",
+  "version": "1.0.0",
+  "description": "Node.js utility to convert ZIP file structure to recursive JSON",
+  "main": "zip-to-json.js",
+  "scripts": {
+    "start": "node zip-to-json.js",
+    "test": "node test-zip-to-json.js"
+  },
+  "keywords": ["zip", "json", "file-structure", "utility"],
+  "author": "Senior Backend Engineer",
+  "license": "MIT",
+  "dependencies": {
+    "adm-zip": "^0.5.10"
+  }
+}

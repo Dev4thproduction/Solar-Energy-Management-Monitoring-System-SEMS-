@@ -1,0 +1,21 @@
+{
+  "name": "solar-zip-to-json",
+  "version": "1.0.0",
+  "description": "Node.js utility to convert SolarPowerMeter ZIP file structure to recursive JSON",
+  "main": "solar-zip-to-json.js",
+  "scripts": {
+    "start": "node solar-zip-to-json.js"
+  },
+  "keywords": [
+    "zip",
+    "json",
+    "file-structure",
+    "utility",
+    "solarpowermeter"
+  ],
+  "author": "Senior Backend Engineer",
+  "license": "MIT",
+  "dependencies": {
+    "adm-zip": "^0.5.10"
+  }
+}
